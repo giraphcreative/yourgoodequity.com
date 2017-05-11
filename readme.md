@@ -1,4 +1,4 @@
-# Falls Catholic CU - Your Good Mortgage
+# Falls Catholic CU - Your Good Equity
 
 A microsite created for Falls Catholic Credit Union. Developing in the open and deploying to Github Pages. Report bugs if you like but this project is mainly here to expose our development processes.
 
